@@ -1,0 +1,8 @@
+Symbol    Lower Bound    Upper Bound    
+A         0.000000       0.800000       
+B         0.800000       0.820000       
+C         0.820000       1.000000       
+Final range for the sequence: [0.729728, 0.731571]
+Tag value for sequence: 0.730650
+Decoding Process:
+Decoded sequence: ACAAB
